@@ -36,8 +36,11 @@ yarn install
     <img src="3.PNG" width="30%" />
   </li>
 <ul>
-<img src="1.PNG" width="30%" />
-<img src="2.PNG" width="30%" />
-<img src="3.PNG" width="30%" />
-<img src="4.PNG" width="30%" />
-<img src="5.PNG" width="30%" />
+<ul style="list-style: none;">
+  <li>
+    <img src="4.PNG" width="30%" />
+  </li>
+  <li>
+    <img src="5.PNG" width="30%" />
+  </li>
+<ul>
