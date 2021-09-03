@@ -25,22 +25,9 @@ yarn install
 - Screen characters details should show the name, picture, species, gender and the list of episodes.
 
 ## ScreenShots
-<ul style="list-style: none;">
-  <li>
-    <img src="1.PNG" width="30%" />
-  </li>
-  <li>
-    <img src="2.PNG" width="30%" />
-  </li>
-  <li>
-    <img src="3.PNG" width="30%" />
-  </li>
-<ul>
-<ul style="list-style: none;">
-  <li>
-    <img src="4.PNG" width="30%" />
-  </li>
-  <li>
-    <img src="5.PNG" width="30%" />
-  </li>
-<ul>
+
+<img src="1.PNG" width="30%" />
+<img src="2.PNG" width="30%" />
+<img src="3.PNG" width="30%" />
+<img src="4.PNG" width="30%" />
+<img src="5.PNG" width="30%" />
